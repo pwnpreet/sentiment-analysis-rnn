@@ -24,4 +24,4 @@ predictions may sometimes be incorrect
 this project for educational and practice purposes only
 
 # Review
-![Web app review](assets/assets2.png)
+![Web app review](assets/asset2.png)
