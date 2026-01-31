@@ -1,0 +1,14 @@
+# PYTHON CACHE
+__pycache__/
+*.__pyc
+
+#JUPYTER
+.ipynb_checkpoints/
+
+#ENVIRONMENT
+.env 
+venv/
+
+#OS FILES
+.DS_Store 
+Thumbs.db
